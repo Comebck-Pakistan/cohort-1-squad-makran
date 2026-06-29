@@ -12,37 +12,41 @@
 - Khuzaima Sajid
 - Sana Saleem
 
+**GitHub usernames:**
+
+- [@Ashahrab-Aamir](https://github.com/Ashahrab-Aamir)
+- [@sikandarali98](https://github.com/sikandarali98)
+- [@khuzaima-sajid](https://github.com/khuzaima-sajid)
+- [@sana-saleem](https://github.com/sana-saleem)
+- [@M-IBRAHIM-PRO](https://github.com/M-IBRAHIM-PRO)
+
 ---
 
 ## 💡 Our Idea
 
-Our squad is building from **one** of the ten ideas in the
-[Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). The
-idea is a starting line, not a spec — our job is to **narrow it** to one specific user,
-one painful problem, and one small thing we can ship in 8 weeks.
+Our squad picked **[Idea 4 — The Freelancer's Co-Pilot](https://github.com/Comebck-Pakistan/cohort-1-product-challenge#idea-4--the-freelancers-co-pilot)** from the [Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). Below are our ideation-stage validation answers, reproduced exactly as we submitted them.
 
-**Pick one of the ten ideas, then delete the rest of this list:**
+### One specific user
 
-1. The Small-Business Brain (WhatsApp-first)
-2. The Urdu-First Study Coach
-3. The Shoebox-to-Books Bookkeeper
-4. The Freelancer's Co-Pilot
-5. The Always-On Front Desk (Voice/WhatsApp Agent)
-6. The Farmer's Advisor in Your Pocket
-7. The SME Paperwork Generator
-8. The Social-Commerce Support Agent
-9. The Fair First-Round Recruiter
-10. The Public-Services Navigator
+A new freelancer (0–6 months of experience) who has landed only 2–3 small projects so far, has no clear idea about pricing, relies on guesswork to set rates, and loses the vast majority of bids submitted
 
-### 📌 Our pick
+### The painful problem
 
-> _Fill this in as a squad._
+Every time they place a bid, they have no idea what the job is actually worth, so pricing becomes a stressful guess they usually get wrong. If they price too low, they end up working an entire week for $10; if they price too high, their bid is simply ignored. Instead of using a structured approach, they copy whatever number they see on a random competitor’s profile, post “How much for a logo?” in Facebook freelancer groups and receive 30 completely contradictory answers, or paste the job into an AI tool that writes a polished proposal but invents a price with no grounding in real Pakistani market or Fiverr rates
 
-- **Idea we picked:** _#__ — ____________________________________________
-- **One specific user:** _______________________________________________
-- **The painful problem:** _____________________________________________
-- **Our 8-week wedge (the one small thing we'll ship):** _______________
-- **The one number that proves people want it:** _______________________
+### Our 8-week wedge
+
+For a beginner Pakistani graphic-design freelancer, we’re shipping the smallest useful tool: they paste an Fiverr job post and instantly get a specific price band to bid (too-low / fair / reach), plus a one‑line rationale grounded in real local rates for that exact skill. In other words, it answers just one question, one job at a time: “What should I charge for this, and why?”
+
+### The one number that proves people want it
+
+we want at least 10 beginner freelancers to use our price band to set the price on real Upwork bids they actually submit (not test or mock proposals), showing that they trust the system enough to stake real money on it.
+
+### Why we picked this idea
+
+We can reliably reach at least 10 freelancers in this exact stage within a week without leaving our desks. Pakistani Fiverr Facebook groups have hundreds of thousands of members, and university freelance societies and cohorts are full of beginners facing this precise pricing problem. This segment also gives us urgency: these freelancers submit real bids every few days, so we see genuine usage from day one instead of needing to persuade people to adopt a new workflow.
+
+We deliberately chose this over the WhatsApp “business brain” idea because Meta’s January 2026 restrictions on open-ended AI bots make that model’s core mechanic structurally risky, and finding 10 shop owners willing to let us go live on their customer-facing WhatsApp line in the next 8 weeks is far harder than reaching 10 freelancers online. Finally, it fits our capabilities: the build remains simple enough for our rotating, mostly junior developers to hand off cleanly, while the hardest part grounding prices in real local data is a research-heavy task that plays directly to our squad’s strengths.
 
 ---
 
