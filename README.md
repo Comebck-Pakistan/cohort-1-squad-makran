@@ -17,7 +17,7 @@
 - [@Ashahrab-Aamir](https://github.com/Ashahrab-Aamir)
 - [@sikandarali98](https://github.com/sikandarali98)
 - [@khuzaima-sajid](https://github.com/khuzaima-sajid)
-- [@sana-saleem](https://github.com/sana-saleem)
+- [@sanasher94-code](https://github.com/sanasher94-code)
 - [@M-IBRAHIM-PRO](https://github.com/M-IBRAHIM-PRO)
 
 ---
